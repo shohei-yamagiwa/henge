@@ -1,0 +1,8 @@
+# User-specific folders
+.vscode
+
+# Generated folders
+node_modules
+
+# Misc
+.DS_Store

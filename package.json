@@ -1,0 +1,16 @@
+{
+  "name": "henge",
+  "version": "1.0.0",
+  "private": true,
+  "author": "Shohei Yamagiwa",
+  "license": "MIT",
+  "description": "Henge is a online video platform for multiple purposes.",
+  "workspaces": [
+    "app/*",
+    "lib/*"
+  ],
+  "devDependencies": {
+    "@biomejs/biome": "1.9.4",
+    "typescript": "5.7.2"
+  }
+}
